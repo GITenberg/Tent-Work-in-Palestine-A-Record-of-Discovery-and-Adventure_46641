@@ -1,4 +1,5 @@
 _repo: Tent-Work-in-Palestine-A-Record-of-Discovery-and-Adventure_46641
+_version: 0.1.0
 contributor:
   illustrator:
     agent_name: Whymper, J. W.
@@ -6,9 +7,7 @@ contributor:
     url: http://www.gutenberg.org/2009/agents/43888
 covers:
 - cover_type: archival
-  image_path: 46641/46641-h/images/cover.jpg
-  rights: Public domain in the USA.
-  rights_url: http://creativecommons.org/about/pdm
+  image_path: 46641-h/images/cover.jpg
 creator:
   author:
     agent_name: Conder, C. R. (Claude Reignier)
@@ -19,6 +18,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/42313
     wikipedia: http://en.wikipedia.org/wiki/Claude_Reignier_Conder
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/46641#Tent-Work-in-Palestine-A-Record-of-Discovery-and-Adventure
 gutenberg_issued: '2014-08-20'
 gutenberg_type: Text
 identifiers:
